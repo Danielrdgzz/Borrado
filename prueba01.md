@@ -16,5 +16,4 @@
 
 <kbd>
 <img src="Twitch-Banner-Size-1.jpg" alt="Logo de Twitch" >
-<img src="images.png" alt="logo de twitch 2">
 </kbd>
