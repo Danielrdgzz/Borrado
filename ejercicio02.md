@@ -5,7 +5,7 @@ La paella es un plato tradicional español, especialmente de la región de Valen
 * __Arroz__ (400 g)
 * __Pollo__ (300 g, troceado)
 * __Conejo__ (300 g, troceado)
-* __Gambas (200 g)
+* __Gambas__ (200 g)
 * __Mejillones__ (200 g)
 * __Calamares__ (200 g, en rodajas)
 * __Pimiento rojo__ (1, cortado en tiras)
